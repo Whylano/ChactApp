@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "917600085908",
+    "project_id": "chactapp",
+    "storage_bucket": "chactapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917600085908:android:5717d5f7c57fed67c71181",
+        "android_client_info": {
+          "package_name": "com.reo.chactapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917600085908-onk2gfp5diahne3gv02vi4hmu5nlt9vs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_dtU4rfowUBCQ_3Zi0aSpaJjHVb2U6Oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917600085908-onk2gfp5diahne3gv02vi4hmu5nlt9vs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
